@@ -1,0 +1,4 @@
+﻿  HashSearch.cpp
+c:\users\329282-13\source\repos\hashsearch\hashsearch\hashsearch.cpp(8): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\329282-13\source\repos\hashsearch\hashsearch\hashsearch.cpp(19): warning C4018: <: несоответствие типов со знаком и без знака
+  HashSearch.vcxproj -> c:\users\329282-13\source\repos\HashSearch\Debug\HashSearch.exe
